@@ -1,8 +1,8 @@
 #
 # Node.js Dockerfile
-#
 # https://github.com/dockerfile/nodejs
 #
+
 
 # Pull base image.
 FROM dockerfile/python
